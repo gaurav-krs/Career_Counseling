@@ -1,8 +1,10 @@
 import React from 'react'
 
 const App = () => {
-  window.location.href = "https://visionarysalvagroup.netlify.app/"; // Redirect to the site
-  return null
+  
+  return (
+    <div className='text-green-500'>this is start and end</div>
+  );
 }
 
 export default App
