@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      "this is home"
+      this tailwind
     </div>
   )
 }
