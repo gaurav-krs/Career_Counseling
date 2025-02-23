@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      this tailwind
+      <h1 className='text-red-400'>this is home</h1>
     </div>
   )
 }
